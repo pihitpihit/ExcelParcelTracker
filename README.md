@@ -5,7 +5,7 @@
 - Reference: https://github.com/florentbr/SeleniumBasic
 
 # Changes
-## 2023-09-16 (v4.1)
+## 2023-09-16 (v4.0.1)
 - 테스트 데이터를 제거했습니다.
 
 ## 2023-09-16 (v4.0)
