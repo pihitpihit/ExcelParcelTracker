@@ -1,10 +1,16 @@
 # ExcelParcelTracker
 엑셀기반 택배 일괄 추적 도구
 - Repo: https://github.com/pihitpihit/ExcelParcelTracker
+- Latest : https://github.com/pihitpihit/ExcelParcelTracker/releases/latest
 - Author: pihitpihit@gmail.com
 - Reference: https://github.com/florentbr/SeleniumBasic
 
 # Changes
+## 2023-11-02 (v4.2.0)
+- 조회 버튼의 문구를 수정했습니다.
+- 결과 삭제 버튼의 하단에 툴 기본정보와 유용할만한 링크를 삽입했습니다.
+- 조회 버튼을 눌렀을 때 ChromeDriver 구동에 실패하면 메시지 창을 통해 안내 문구를 출력하도록 수정했습니다.
+
 ## 2023-09-16 (v4.0.1)
 - 테스트 데이터를 제거했습니다.
 
